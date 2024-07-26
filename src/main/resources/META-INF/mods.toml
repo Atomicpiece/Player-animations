@@ -1,0 +1,24 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="Not specified"
+
+[[mods]]
+modId="playeranimations"
+version="1.0.0"
+displayName="Player-animations"
+displayURL="https://mcreator.net"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+authors="tomas, MCreator"
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
+[[dependencies.playeranimations]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
